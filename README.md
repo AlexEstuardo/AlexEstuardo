@@ -8,6 +8,5 @@
 
 ## Sobre mi
 - 🧑‍🎓 Estudiante de ingeniería en Sistemas</li>
-- 🎮 Creador de mods para Minecraft Java
 </body>
 
